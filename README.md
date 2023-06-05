@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/moosterling1/Space%20-%20Game%20-web%20-Release/_apis/build/status%2Fmslearn-tailspin-spacegame-web-deploy?branchName=release-pipeline)](https://dev.azure.com/moosterling1/Space%20-%20Game%20-web%20-Release/_build/latest?definitionId=5&branchName=release-pipeline)
 [![Build Status](https://dev.azure.com/moosterling1/Space%20Game%20-%20web%20-%20pipeline/_apis/build/status%2FMoosterling1.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/moosterling1/Space%20Game%20-%20web%20-%20pipeline/_build/latest?definitionId=2&branchName=build-pipeline)
 # Contributing
 
